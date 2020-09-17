@@ -43,7 +43,7 @@ mvn install -DskipTests
 # Melhorias pendentes:
 
 - Melhorar estrutura de exceptions
-- Adicionar heranças para diminuir repetiçao de codigo quando a aplicaçao crescer
-- Adicionar JWT ou OAuth2 para adicionar segurança a API
-- Adicionar logica de testes automaticos para realizaçao de testes de regreçao
+- Adicionar heranças para diminuir repetição de codigo quando a aplicação crescer
+- Incluir JWT ou OAuth2 para adicionar segurança a API
+- Adicionar lógica de testes automáticos para realização de testes de regressão
 - Outras melhorias
